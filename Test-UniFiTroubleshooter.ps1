@@ -1,3 +1,5 @@
+# UniFi Troubleshooter 1.0.2 - https://ihavenoram.com - https://github.com/ihavenoram/unifi-troubleshooter
+# MIT licence, (c) 2026 ihavenoram.com. If you publish something built on this, please credit ihavenoram.com.
 <#
 .SYNOPSIS
     UniFi Layer-3 Adoption & Connectivity Troubleshooter

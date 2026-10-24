@@ -14,10 +14,10 @@ Test-UniFiTroubleshooter.ps1    <- older linear console script, kept as a fallba
 
 ## Download
 
-Grab the latest zip from **[Releases](../../releases/latest)**. The SHA-256 checksum is in the release notes and in the `.sha256` file beside the zip:
+Grab **`unifi.zip`** from **[Releases](../../releases/latest)**. It holds one folder, `unifi\`, with only what runs: the scripts and a `.cmd` launcher for each. Copy that folder to the PC or server (for example `C:\temp\unifi`); this README and the docs stay here on GitHub. The SHA-256 checksum is in the release notes and in the `.sha256` file beside the zip:
 
 ```powershell
-Get-FileHash .\UniFi-Troubleshooter.zip -Algorithm SHA256
+Get-FileHash .\unifi.zip -Algorithm SHA256
 ```
 
 ## Run it
